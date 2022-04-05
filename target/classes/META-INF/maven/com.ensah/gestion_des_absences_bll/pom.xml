@@ -8,7 +8,7 @@
   
   	<properties>
 		<java-version>11</java-version>
-		<spring-version>5.2.13.RELEASE</spring-version>
+		<spring-version>5.2.20.RELEASE</spring-version>
 		<springsecurity.version>5.4.6</springsecurity.version>
 		<hibernate-version>5.4.30.Final</hibernate-version>
 		<jackson-version>2.12.3</jackson-version>
